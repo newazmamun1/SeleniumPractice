@@ -61,18 +61,7 @@ public class NewUserReg {
 	    System.out.println(driver.getCurrentUrl());    
 	    System.out.println(driver.getTitle());
 	    
-	    
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
+	 
 	}
 
 }
